@@ -17,6 +17,7 @@
     "howler": "^2.2.3",
     "html-loader": "^3.0.0",
     "html-webpack-plugin": "^5.5.0",
+    "internal-ip": "^6.2.0",
     "lil-gui": "^0.11.0",
     "mini-css-extract-plugin": "^2.4.3",
     "portfinder-sync": "0.0.2",
@@ -28,7 +29,7 @@
     "vercel": "^23.1.2",
     "webpack": "^5.60.0",
     "webpack-cli": "^4.9.1",
-    "webpack-dev-server": "^4.4.0",
+    "webpack-dev-server": "^4.15.2",
     "webpack-merge": "^5.8.0"
   }
 }
