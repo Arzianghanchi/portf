@@ -233,7 +233,7 @@ export default class Controller
                 this.sounds.playClick()
                 this.menuControls.buttonIndicator(obj, color)
                 await this.sleep(250)
-                window.open('https://medium.com/@jesse-zhou', '_blank')
+                window.open('https://medium.com/@Arzian-ghanchi', '_blank')
             }
         }
         this.menuControls.aboutMe = async (obj, color) =>
@@ -510,7 +510,7 @@ export default class Controller
             if(this.resources.video['tvScreenVideoTexture'].paused)
             {this.resources.video['tvScreenVideoTexture'].play()}
             else {
-                window.open('https://www.youtube.com/watch?v=fYcphQibLek', '_blank');
+                window.open('https://www.youtube.com/watch?v=c2l3e-SIsts', '_blank');
                 this.resources.video['tvScreenVideoTexture'].pause()
             }
         }
@@ -587,7 +587,7 @@ export default class Controller
         {
             if(this.logic.buttonsLocked === false && (this.logic.mode === 'aboutMe' || this.logic.mode === 'skills' || this.logic.mode === 'experience'))
             {
-                window.open('https://twitter.com/Jessezhouu', '_blank');
+                window.open('https://twitter.com/Arzian-ghanchi', '_blank');
             }
             
         }
@@ -596,7 +596,7 @@ export default class Controller
         {
             if(this.logic.buttonsLocked === false && (this.logic.mode === 'aboutMe' || this.logic.mode === 'skills' || this.logic.mode === 'experience'))
             {
-                window.open('https://www.linkedin.com/in/jessezhou1998', '_blank');
+                window.open('https://www.linkedin.com/in/arzian-ghanchi/', '_blank');
             }
             
         }
@@ -605,7 +605,7 @@ export default class Controller
         {
             if(this.logic.buttonsLocked === false && (this.logic.mode === 'aboutMe' || this.logic.mode === 'skills' || this.logic.mode === 'experience'))
             {
-                window.open('https://github.com/enderh3art', '_blank');
+                window.open('https://github.com/Arzianghanchi', '_blank');
             }
             
         }
@@ -614,7 +614,7 @@ export default class Controller
         {
             if(this.logic.buttonsLocked === false && (this.logic.mode === 'aboutMe' || this.logic.mode === 'skills' || this.logic.mode === 'experience'))
             {
-                window.open('https://medium.com/@jesse-zhou', '_blank');
+                window.open('https://medium.com/@Arzian-ghanchi', '_blank');
             }
             
         }
@@ -623,7 +623,7 @@ export default class Controller
         {
             if(this.logic.buttonsLocked === false && (this.logic.mode === 'aboutMe' || this.logic.mode === 'skills' || this.logic.mode === 'experience'))
             {
-                window.location.href='mailto:jessezhouu@gmail.com'
+                window.location.href='mailto:work.arzianghanchi@gmail.com'
             }
             
         }
